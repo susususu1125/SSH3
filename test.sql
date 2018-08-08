@@ -1,3 +1,3 @@
 select * from CM_ITEM;
---test
-select * from CM_ITM_LOC;
+commit;
+--ssh3test2
